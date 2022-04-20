@@ -1,1 +1,1 @@
-def registeration(first,last,username,password,email,phno,hobbies):
+def registeration(first,last,username,password,email,phno):
